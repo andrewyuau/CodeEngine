@@ -10,7 +10,7 @@ app.get('/', (request, response) => {
     <title>Powered By Code Engine</title>
   </head>
   <body>
-    I was built by Buildpacks with Code Engine! Hello Think!
+    I was built by Buildpacks with Code Engine! Hello Red Hat!
   </body>
 </html>`);
 });
